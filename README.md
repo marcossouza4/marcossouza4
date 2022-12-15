@@ -1,4 +1,7 @@
-## Olá, eu sou Marcos Silva de Souza
+## Olá, sou Marcos Silva de Souza
+ 
+
+💻 Estudante de programação!
 
 <div align="center">
   <a href="https://github.com/marcossouza4">
